@@ -94,7 +94,6 @@ class Unet(nn.Module):
         x=self.up_conv4(torch.cat([x,y],1))
         
         x=self.out(x)
-        print(x.size())
         return x
         
         
