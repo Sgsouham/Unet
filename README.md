@@ -1,6 +1,8 @@
 # Unet- Convolutional Networks for Biomedical Image Segmentation 
 
-This is an unofficial paper implementation of the UNET paper in Pytorch
+## Idea
+
+This is a paper implementation of the UNET model in Pytorch
 
 
 ![image](https://tuatini.me/content/images/2017/09/u-net-architecture.png)
@@ -12,3 +14,7 @@ This is more of a vanilla implementation with no fancy stuff. I just implemented
 
 
 If you want more information on the orginal paper, you can definitely check it out ***[here](https://arxiv.org/abs/1505.04597)***.
+
+## Ways in which this can be used
+  - You can use this as a starting stage while working on a Unet project
+  - You can refer to this if you want to work with implementing an paper (Always start off with the architecture. It's the easiest).
